@@ -7,6 +7,11 @@ public class just {
 		hello
 		hi
 		bye
+		1
+		2
+		3
+		1
+		23
 		
 	}
 
